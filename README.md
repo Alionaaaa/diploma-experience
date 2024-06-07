@@ -119,7 +119,7 @@ C и ChibiOS, MATLAB, SolidWorks, Altium Designer
 ### Основные компоненты исследуемого мультикоптера
 
 <p align="center">
-<img src="hexacopter_pics/components.png" width="600">
+<img src="hexacopter_pics/components.png">
 </p>
 
 
@@ -148,12 +148,12 @@ C и ChibiOS, MATLAB, SolidWorks, Altium Designer
   <tr>
     <td>
       <figure>
-        <img src="hexacopter_pics/roll.png" alt="Одна башенка" width="200"/>
+        <img src="hexacopter_pics/roll.png" alt="Одна башенка"/>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="hexacopter_pics/pitch.png" alt="Две башенки" width="200"/>
+        <img src="hexacopter_pics/pitch.png" alt="Две башенки"/>
       </figure>
     </td>
   </tr>
