@@ -37,11 +37,21 @@ C/C++, Java и Android Studio, Python, OpenCV
 Приложение напрямую связывается с управляющим микроконтроллером по Bluetooth соединению. И позволяет управлять манипулятором в двух режимах.
 
 Управление каждым из двигателей                                    Управление координатой хвата              
-<div align=center>
+<div align="center">
 <table>
   <tr>
-     <td><img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_1.gif" alt="dfs" width="200"/></td>
-    <td><img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_2.gif" alt="dfs" width="200"/></td>
+    <td>
+      <figure>
+        <figcaption>Ручной режим управления манипулятором - шаг 1</figcaption>
+        <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_1.gif" alt="Ручной режим управления манипулятором - шаг 1" width="200"/>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <figcaption>Ручной режим управления манипулятором - шаг 2</figcaption>
+        <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_2.gif" alt="Ручной режим управления манипулятором - шаг 2" width="200"/>
+      </figure>
+    </td>
   </tr>
 </table>
 </div>
