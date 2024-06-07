@@ -13,7 +13,7 @@
 - тестирование реализованной системы управления.
 
 Основные технологии используемые в данной работе:
-C/C++, Java и Android Studio, Python, OpenCV
+C/C++ и ChibiOS, Java и Android Studio, Python, OpenCV
 
 Собранный прототип на основе модели https://github.com/4ndreas
 
@@ -63,7 +63,7 @@ C/C++, Java и Android Studio, Python, OpenCV
 
 
 
-Алгоритм работы программы:
+### Алгоритм работы программы
 
 <p align="center">
 <img src="manipulator_pics/work_algorithm.png" width="600">
@@ -102,3 +102,68 @@ C/C++, Java и Android Studio, Python, OpenCV
   </tr>
 </table>
 </div>
+
+## Гексакоптер
+
+Целью данной работы было разработать базовый функционал по стабилизации гексакоптера на базе микроконтроллера STM32F7 с использованием ChibiOS.
+
+Основные задачи:
+- разработка опытного образца шестивинтового БПЛА;
+- разработка системы определения ориентации; 
+- разработка структуры системы управления;
+- тестирование реализованной системы управления
+
+Основные технологии используемые в данной работе:
+C и ChibiOS, MATLAB, SolidWorks, Altium Designer
+
+### Основные компоненты исследуемого мультикоптера
+
+<p align="center">
+<img src="hexacopter_pics/components.png" width="600">
+</p>
+
+
+### Структура системы управления
+
+
+<p align="center">
+<img src="hexacopter_pics/control_system.png">
+</p>
+
+
+### Алгоритм работы программы:
+
+
+<p align="center">
+<img src="hexacopter_pics/work_algorithm.png" width="600">
+</p>
+
+
+### Результат работы
+
+Ниже представлены графики отработки ПИД-регуляторов
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="hexacopter_pics/roll.png" alt="Одна башенка" width="200"/>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="hexacopter_pics/pitch.png" alt="Две башенки" width="200"/>
+      </figure>
+    </td>
+  </tr>
+</table>
+</div>
+
+В представленном видео наглядно показана работа системы стабилизации(во избежание чрезвычайно ситуации человек лишь слега придерживает коптер). 
+Дальнейшее развитие проекта должно быть направлено в сторону  обеспечения полноценной возможности для тестирования гексакопетра, доработки системы стабилизации и расширения возможностей полётного контроллера
+
+
+<p align="center">
+<img src="https://github.com/Alionaaaa/diploma-experience/blob/main/hexacopter_pics/work.gif" width="400">
+</p>
