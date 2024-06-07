@@ -24,8 +24,6 @@ C/C++, Java и Android Studio, Python, OpenCV
 
 ### Основные компоненты исследуемого робота-манипулятора
 
-Основными компонентами являлись:
-
 <p align="center">
 <img src="manipulator_pics/Components.png" width="600">
 </p>
@@ -35,21 +33,20 @@ C/C++, Java и Android Studio, Python, OpenCV
 
 В представленных видео показано разработанное приложение на Java имитирующее управление джойстиком.
 Приложение напрямую связывается с управляющим микроконтроллером по Bluetooth соединению. И позволяет управлять манипулятором в двух режимах.
-
-Управление каждым из двигателей                                    Управление координатой хвата              
+           
 <div align="center">
 <table>
   <tr>
     <td>
       <figure>
         <figcaption>Управление каждым из двигателей</figcaption>
-        <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_1.gif" alt="Ручной режим управления манипулятором - шаг 1" width="200"/>
+        <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_1.gif" alt="Управление каждым двигателем" width="200"/>
       </figure>
     </td>
     <td>
       <figure>
         <figcaption>Управление координатой хвата</figcaption>
-        <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_2.gif" alt="Ручной режим управления манипулятором - шаг 2" width="200"/>
+        <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_2.gif" alt="Управление хватом" width="200"/>
       </figure>
     </td>
   </tr>
@@ -69,7 +66,7 @@ C/C++, Java и Android Studio, Python, OpenCV
 Алгоритм работы программы:
 
 <p align="center">
-<img src="manipulator_pics/work_algorithm.png">
+<img src="manipulator_pics/work_algorithm.png" width="600">
 </p>
 
 
@@ -82,7 +79,7 @@ C/C++, Java и Android Studio, Python, OpenCV
 Пользовательское приложение написанное на Python для детекции и выбора целевых шашек:
 
 <p align="center">
-<img src="detection.gif" width="200">
+<img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/detection.gif" width="200">
 </p>
 
 
@@ -92,14 +89,14 @@ C/C++, Java и Android Studio, Python, OpenCV
   <tr>
     <td>
       <figure>
-        <figcaption>Построение одной башенки из выбранных пользователем шашек</figcaption>
-        <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/one_tower.gif" alt="Ручной режим управления манипулятором - шаг 1" width="200"/>
+        <figcaption>Построение одной башенки (из выбранных пользователем)</figcaption>
+        <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/one_tower.gif" alt="Одна башенка" width="200"/>
       </figure>
     </td>
     <td>
       <figure>
         <figcaption>Сортировка шашек по цвету</figcaption>
-        <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/sort_towers.gif" alt="Ручной режим управления манипулятором - шаг 2" width="200"/>
+        <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/sort_towers.gif" alt="Две башенки" width="200"/>
       </figure>
     </td>
   </tr>
