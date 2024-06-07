@@ -52,8 +52,8 @@ C/C++, Java и Android Studio, Python, OpenCV
 <div align=right>
 <table>
   <tr>
-    <td><img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_1.gif" alt="dfs"/></a></td>
-    <td><img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_2.gif" alt="dfs"/></a></td>
+     <td><img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_1.gif" alt="dfs" width="200"/></td>
+    <td><img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_2.gif" alt="dfs" width="200"/></td>
   </tr>
 </table>
 </div>
