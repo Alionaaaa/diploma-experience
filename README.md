@@ -18,7 +18,7 @@ C/C++, Java и Android Studio, Python, OpenCV
 Собранный прототип на основе модели https://github.com/4ndreas
 
 <p align="center">
-<img src="manipulator_pics/Prototype.png width="200"">
+<img src="manipulator_pics/Prototype.png" width="200">
 </p>
 
 
