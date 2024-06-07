@@ -27,7 +27,7 @@ C/C++, Java и Android Studio, Python, OpenCV
 Основными компонентами являлись:
 
 <p align="center">
-<img src="manipulator_pics/Components.png">
+<img src="manipulator_pics/Components.png" width="200">
 </p>
 
 ### Ручное управление манипулятором
@@ -61,10 +61,14 @@ C/C++, Java и Android Studio, Python, OpenCV
 
 
 <p align="center">
-  <div style="display: inline-block; background-color: white; padding: 10px; text-align: center;">
-    <img src="manipulator_pics/control_system.png" alt="Система управления манипулятором" style="display: block; margin: 0 auto;">
-    <div style="color: black;">Система управления манипулятором</div>
-  </div>
+  <table>
+    <tr>
+      <td style="background-color: white; padding: 10px; text-align: center; border: 1px solid black;">
+        <img src="manipulator_pics/control_system.png" alt="Система управления манипулятором" style="display: block; margin: 0 auto;">
+        <div style="color: black;">Система управления манипулятором</div>
+      </td>
+    </tr>
+  </table>
 </p>
 
 
