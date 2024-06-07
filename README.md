@@ -38,9 +38,9 @@ C/C++, Java и Android Studio, Python, OpenCV
 
 Управление каждым из двигателей:
 
-<p align="center">
+<div id="header" align="center">
 <img src="manual_control_mode_1.gif">
-</p>
+</div>
 
 Управление координатой хвата:
 
