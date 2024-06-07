@@ -49,7 +49,7 @@ C/C++, Java и Android Studio, Python, OpenCV
 </div>
 
 Управление каждым из двигателей                                    Управление координатой хвата              
-<div align=right>
+<div align=center>
 <table>
   <tr>
      <td><img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_1.gif" alt="dfs" width="200"/></td>
