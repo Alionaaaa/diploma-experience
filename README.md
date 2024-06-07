@@ -42,13 +42,13 @@ C/C++, Java и Android Studio, Python, OpenCV
   <tr>
     <td>
       <figure>
-        <figcaption>Ручной режим управления манипулятором - шаг 1</figcaption>
+        <figcaption>Управление каждым из двигателей</figcaption>
         <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_1.gif" alt="Ручной режим управления манипулятором - шаг 1" width="200"/>
       </figure>
     </td>
     <td>
       <figure>
-        <figcaption>Ручной режим управления манипулятором - шаг 2</figcaption>
+        <figcaption>Управление координатой хвата</figcaption>
         <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/manual_control_mode_2.gif" alt="Ручной режим управления манипулятором - шаг 2" width="200"/>
       </figure>
     </td>
@@ -61,7 +61,10 @@ C/C++, Java и Android Studio, Python, OpenCV
 
 
 <p align="center">
-<img src="manipulator_pics/control_system.png">
+  <div style="display: inline-block; background-color: white; padding: 10px; text-align: center;">
+    <img src="manipulator_pics/control_system.png" alt="Система управления манипулятором" style="display: block; margin: 0 auto;">
+    <div style="color: black;">Система управления манипулятором</div>
+  </div>
 </p>
 
 
@@ -81,25 +84,26 @@ C/C++, Java и Android Studio, Python, OpenCV
 Пользовательское приложение написанное на Python для детекции и выбора целевых шашек:
 
 <p align="center">
-<img src="detection.gif">
-</p>
-
-  
-
-<p align="center">
-<img src="one_tower.gif">
+<img src="detection.gif" width="200">
 </p>
 
 
 
-
-
-Построение одной башенки из выбранных пользователем шашек:                                    Сортировка шашек по цвету:             
-<div align=center>
+<div align="center">
 <table>
   <tr>
-     <td><img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/one_tower.gif" alt="dfs" width="200"/></td>
-    <td><img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/sort_towers.gif" alt="dfs" width="200"/></td>
+    <td>
+      <figure>
+        <figcaption>Построение одной башенки из выбранных пользователем шашек</figcaption>
+        <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/one_tower.gif" alt="Ручной режим управления манипулятором - шаг 1" width="200"/>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <figcaption>Сортировка шашек по цвету</figcaption>
+        <img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/sort_towers.gif" alt="Ручной режим управления манипулятором - шаг 2" width="200"/>
+      </figure>
+    </td>
   </tr>
 </table>
 </div>
