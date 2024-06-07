@@ -44,9 +44,9 @@ C/C++, Java и Android Studio, Python, OpenCV
 
 Управление координатой хвата:
 
-<p align="center">
+<div align="center">
 <img src="manual_control_mode_2.gif">
-</p>
+</div>
 
 
 ### Структура системы управления
