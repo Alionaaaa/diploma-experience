@@ -18,7 +18,7 @@ C/C++, Java и Android Studio, Python, OpenCV
 Собранный прототип на основе модели https://github.com/4ndreas
 
 <p align="center">
-<img src="manipulator_pics/Prototype.png">
+<img src="manipulator_pics/Prototype.png width="200"">
 </p>
 
 
@@ -35,18 +35,6 @@ C/C++, Java и Android Studio, Python, OpenCV
 
 В представленных видео показано разработанное приложение на Java имитирующее управление джойстиком.
 Приложение напрямую связывается с управляющим микроконтроллером по Bluetooth соединению. И позволяет управлять манипулятором в двух режимах.
-
-Управление каждым из двигателей:
-
-<div id="header" align="center">
-<img src="manual_control_mode_1.gif">
-</div>
-
-Управление координатой хвата:
-
-<div align="center">
-<img src="manual_control_mode_2.gif">
-</div>
 
 Управление каждым из двигателей                                    Управление координатой хвата              
 <div align=center>
