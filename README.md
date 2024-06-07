@@ -61,12 +61,9 @@ C/C++, Java и Android Studio, Python, OpenCV
 
 
 <p align="center">
-  <div style="position: relative; display: inline-block;">
-    <div style="background-color: white; width: 100%; height: 100%; position: absolute; top: 0; left: 0; z-index: -1;"></div>
-    <img src="manipulator_pics/control_system.png" alt="Система управления манипулятором">
-    <p style="position: relative; margin: 0; padding: 10px; background-color: white; color: black;">Система управления манипулятором</p>
-  </div>
+<img src="manipulator_pics/control_system.png">
 </p>
+
 
 
 Алгоритм работы программы:
