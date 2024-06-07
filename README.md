@@ -86,14 +86,22 @@ C/C++, Java и Android Studio, Python, OpenCV
 <img src="detection.gif">
 </p>
 
-Построение одной башенки из выбранных пользователем шашек:  
+  
 
 <p align="center">
 <img src="one_tower.gif">
 </p>
 
-Сортировка шашек по цвету:
 
-<p align="center">
-<img src="sort_towers.gif">
-</p>
+
+
+
+Построение одной башенки из выбранных пользователем шашек:                                    Сортировка шашек по цвету:             
+<div align=center>
+<table>
+  <tr>
+     <td><img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/one_tower.gif" alt="dfs" width="200"/></td>
+    <td><img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/sort_towers.gif" alt="dfs" width="200"/></td>
+  </tr>
+</table>
+</div>
