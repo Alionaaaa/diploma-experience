@@ -87,4 +87,3 @@ C/C++, Java и Android Studio, Python, OpenCV
 <p align="center">
 <img src="sort_towers.gif">
 </p>
-
