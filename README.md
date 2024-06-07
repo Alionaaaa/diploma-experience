@@ -79,7 +79,7 @@ C/C++, Java и Android Studio, Python, OpenCV
 Пользовательское приложение написанное на Python для детекции и выбора целевых шашек:
 
 <p align="center">
-<img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/detection.gif" width="200">
+<img src="https://github.com/Alionaaaa/diploma-experience/blob/main/manipulator_pics/detection.gif" width="400">
 </p>
 
 
